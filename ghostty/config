@@ -1,0 +1,7 @@
+theme = GruvboxDarkHard
+font-family = JetbrainsMono Nerd Font
+font-size = 12
+background-opacity=0.8
+custom-shader = /home/elephanto/.config/ghostty/ghostty-shaders/balatro.glsl
+custom-shader-animation = true
+command = fish --login --interactive
